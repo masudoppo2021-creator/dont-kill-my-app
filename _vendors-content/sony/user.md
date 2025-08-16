@@ -13,7 +13,7 @@ Newer Android versions on Sony devices have an extra "STAMINA level" setting und
 For older Android versions, never use STAMINA mode if you want your device to do something useful when not actively using it. Despite the official description, it does not affect only mobile data and WiFi, it also terminates any background processes.
 Stamine mode can be found (and disabled) in either the *Battery* section or the *Power management* section.
 
-<div class="img-block">
+<div class="img-b.lock">
   <figure>
     <img src="/assets/img/sony/sony_stamina.jpg">
     <figcaption>Older Androids.</figcaption>
